@@ -56,7 +56,7 @@ let second = get(mylist, 1, "NONE")
 Functions
 ---------
 
-##* Buffer
+## Buffer
 
     line('.')             " current line number
     col('.')
@@ -74,21 +74,21 @@ Functions
     nextnonblank(1)       " next non-blank line after line1
     prevnonblank()
 
-##* Marks
+## Marks
 
     getpos("'a")          " position of a mark
     setpos("'a",...)
 
     getpos("'<")          " position of selection start
 
-##* Cursor
+## Cursor
 
     cursor(line,col)      " moves cursor
     cursor(line,col,off,curswant)
 
     getcurpos()           " returns ![pic](bufnum,line,col,off,curswant)
 
-##* Expand
+## Expand
 
     expand('<cword>')      " word under cursor
     expand('%')            " current file
@@ -102,7 +102,7 @@ Functions
     " :e    extension (.txt)
     " see :h cmdline-special
 
-##* Files
+## Files
 
     fnameescape('string')
     fnamemodify('main.c', ':p:h')
@@ -113,7 +113,7 @@ Functions
 
     globpath(&rtp, "plugin/commentary.vim")
 
-##* Math
+## Math
 
     fmod(9, 2)  " modulus
     abs(-0.5)
@@ -124,7 +124,7 @@ Functions
     ceil(1.84)
     float2nr(3.14)
 
-##* Casting
+## Casting
 
     str2float('0.2')
     str2nr('240')
@@ -132,7 +132,7 @@ Functions
 
     string(0.3)
 
-##* Type checking
+## Type checking
 
     type(var) == type(0)
     type(var) == type("")
@@ -141,12 +141,12 @@ Functions
     type(var) == type({})
     type(var) == type(0.0)
 
-##* Date/time
+## Date/time
 
     strftime('%c')
     strftime('%c',getftime('file.c'))
 
-##* Strings
+## Strings
 
     if a =~ '\s*'
     substitute(str, '.', 'x', 'g')
@@ -171,7 +171,7 @@ Functions
     tolower(str)
     tr('foo', '_-', '  ')
 
-##* Syntax
+## Syntax
 
     synstack(line('.'),col('.'))   " returns many
     synID(line('.'),col('.'),1)    " only one
@@ -183,11 +183,11 @@ Functions
     " syntax stack
     map(synstack(line('.'), col('.')), 'synIDattr(v:val, "name")')
 
-##* Shell
+## Shell
 
     system('ls '.shellescape(expand('%:h')))
 
-##* Registers
+## Registers
 
     getreg('*')
     getregtype('*')     " v(char), V(line) <ctrl-v>(block)
@@ -206,7 +206,7 @@ Comparisons
 Executing
 ---------
 
-##* Running commands
+## Running commands
 
     normal 'ddahello'
     exe 'normal ^C'  " with expansions

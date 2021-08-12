@@ -6,6 +6,7 @@ Study
     Japonese
     Mathematics
 
+
 Programming
 	[Fundamentals](Fundamentals/Index.md)
     [Clang](Clang/index.md)
