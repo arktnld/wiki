@@ -1,0 +1,12 @@
+Math
+	[Accumulate](Accumulate.cpp)
+	[MaxLengthDiff](MaxLengthDiff.cpp)
+	[PileOfCube](PileOfCube.cpp)
+	[PrimeFactor](PrimeFactor.cpp)
+	[ProbFib](ProbFib.cpp)
+	[ReturnNegative](ReturnNegative.cpp)
+	[SquaredString](SquaredString.cpp)
+	[Summation](Summation.cpp)
+	[SumOddNum](SumOddNum.cpp)
+	[Xbonacci](Xbonacci.ccp)
+	[Tribonacci](Tribonacci.cpp)

@@ -1,0 +1,12 @@
+# Coding Inspirations and Ideas
+    - Logica de Programação
+    - Debugging
+    - Criar testes
+    - Estrutura de Dados
+    - Programmatic thinking
+    - Systems
+    - Computer science
+    - Orientado a Objeto
+    - Fundamentos Matemáticos Para a Ciência da Computação
+    - boas praticas de programação
+    - estrutura de dados em jogos
