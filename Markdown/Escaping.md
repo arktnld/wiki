@@ -1,9 +1,0 @@
-# Escaping
-
-    \*literally\*
-
-Result:
-
-\*literally\*
-
-

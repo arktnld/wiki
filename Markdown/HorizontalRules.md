@@ -1,8 +1,0 @@
-# Horizontal Rules
-
-    ---
-
-Result:
-
----
-
