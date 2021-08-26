@@ -1,7 +1,7 @@
 English Grammar
 
 Basics
-	[Alphabet](Alphabet.md)
+	[Alphabet](Alphabet)
 
 Lessons
-	[Do Does Did Done](Do Does Did Done.md)
+	[Do Does Did Done](Do Does Did Done)

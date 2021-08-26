@@ -1,4 +1,4 @@
 # Inspirations and Ideas
-    [Games](Games.md)
-    [App](App.md)
-    [Coding](Coding.md)
+    [Games](Games)
+    [App](App)
+    [Coding](Coding)

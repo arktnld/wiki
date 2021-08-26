@@ -1,2 +1,2 @@
 # Lua Lang
-    [Cheat Sheet](Cheat Sheet.md)
+    [Cheat Sheet](Cheat Sheet)

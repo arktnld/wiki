@@ -1,4 +1,4 @@
 # Self Esteem
-   [Cognitive Distortions](Cognitive Distortions.md)
-   [Self-Activation Methods](Self-Activation Methods.md)
-   [Ten Things About Anger](Ten Things About Anger.md)
+   [Cognitive Distortions](Cognitive Distortions)
+   [Self-Activation Methods](Self-Activation Methods)
+   [Ten Things About Anger](Ten Things About Anger)

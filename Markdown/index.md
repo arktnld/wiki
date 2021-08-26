@@ -1,8 +1,9 @@
 # Basic
-    [basic](basic.md)
-    [advanted](advanted.md)
-    [github](github.md)
+    [basic](basic)
+    [advanted](advanted)
+    [github](github)
 
-# References
+## References
+
 * http://blog.ghost.org/markdown/
 * https://guides.github.com/features/mastering-markdown/

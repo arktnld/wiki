@@ -1,2 +1,2 @@
 # Configs
-    [Git](Git.md)
+    [Git](Git)

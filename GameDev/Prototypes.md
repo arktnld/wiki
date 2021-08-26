@@ -1,2 +1,2 @@
 # Games Prototypes
-    [Yahtzee](Yahtzee.md)
+    [Yahtzee](Yahtzee)

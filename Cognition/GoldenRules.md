@@ -2,6 +2,9 @@
     • Faça a principal tarefa do dia primeiro
       o quanto antes possível.
 
+    • Tudo que é melhor fazer junto,
+      sozinho pode nos fazer muito mal.
+
     • "Se me derem 6 horas pra cortar uma arvore,
        vou passar 4 horas afiando meu machado."
                                _- Abraham Lincoln_

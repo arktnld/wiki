@@ -1,15 +1,15 @@
 
-Ingredientes
+# Ingredientes
 
-	7 ovos inteniros + 5 gemas
-	850g de açucar cristal
-	1 litro de leite integral
-	sudo e raspas de 1/2 limão
-	1 pau de canela
-	3 cravos
+	- 7 ovos inteniros + 5 gemas
+	- 850g de açucar cristal
+	- 1 litro de leite integral
+	- sudo e raspas de 1/2 limão
+	- 1 pau de canela
+	- 3 cravos
 
 
-Modo de Preparar
+# Modo de Preparar
 
 	Em uma panela funda, adicionar os ovos inteiros e as gemas. Misturar bem.
 	Sempre mexendo, adicionar o açucar aos poucos.
