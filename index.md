@@ -23,7 +23,7 @@ Programming
 Linux
     [Shell](Shell/index)
     [Vim](Vim/index)
-    [Configs](Configs/index) -- configs guide
+    [Configs](Configs/index)
 
 Bookmark
     [Movies](Bookmark/Movies)
