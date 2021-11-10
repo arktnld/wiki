@@ -7,7 +7,7 @@ Study
     [Pomodoro](Pomodoro/index)
     [English](English/index)
     [Markdown](Markdown/index)
-    Japonese
+    [Japonese Index](Japonese/Index)
     Mathematics
 
 
@@ -26,18 +26,21 @@ Linux
     [Configs](Configs/index) -- configs guide
 
 Bookmark
+    [Movies](Bookmark/Movies)
+    [Reading](Bookmark/Reading)
     [Coding](Bookmark/Coding)
-    [Download](Bookmark/Download)
     [Study](Bookmark/Study)
     [Games](Bookmark/Games)
 
 Cognition
     [Golden Rules](Cognition/GoldenRules)
     [Cognitive Distortion](Cognition/Index)
+    [Transtornos](Transtornos/Index)
 
 GameDev
     [Prototypes](GameDev/Prototypes)
     [Pixel Art](GameDev/PixelArt)
+    [Game Inspirations](GameDev/Game Inspirations)
 
 GameWiki
     [stonesoup](stonesoup/commands)
@@ -45,4 +48,3 @@ GameWiki
 
 Recipes
     [lanches](Recipes/index)
-

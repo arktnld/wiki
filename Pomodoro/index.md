@@ -1,7 +1,10 @@
-Routine
-    july20.csv
+# Routine
+    [To Do Today](To Do Today)
+    [Activity Inventory](Activity Inventory)
+    [Records](Records)
+    [Progress Sheet](Progress Sheet)
 
-Pomodoro
+# Pomodoro
 
 	[Basics](Basics)
     [Sheet](Sheet)

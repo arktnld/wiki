@@ -5,4 +5,5 @@
 !_TAG_PROGRAM_NAME	Vimwiki Tags
 !_TAG_PROGRAM_URL	https://github.com/vimwiki/vimwiki
 !_TAG_PROGRAM_VERSION	2.5
+diary	diary/August/index.md	1;"	vimwiki:diary/August/index\tdiary/August/index
 yahtzee	GameDev/Yahtzee.md	1;"	vimwiki:GameDev/Yahtzee\tGameDev/Yahtzee
