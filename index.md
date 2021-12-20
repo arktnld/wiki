@@ -13,10 +13,10 @@ Study
 
 Programming
 	[Fundamentals](Fundamentals/Index)
+    [bash](bash/index)
     [Clang](Clang/index)
     [CPP](CPP/index)
     [java](java/index)
-    [bash](bash/index)
     [vimscript](vimscript/index)
     [Lua](Lua/index)
 
@@ -33,6 +33,7 @@ Bookmark
     [Games](Bookmark/Games)
 
 Cognition
+    [My Thoughts](Cognition/MyThoughts)
     [Golden Rules](Cognition/GoldenRules)
     [Cognitive Distortion](Cognition/Index)
     [Transtornos](Transtornos/Index)

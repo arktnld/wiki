@@ -1,0 +1,2 @@
+math
+    [power](power.sh)

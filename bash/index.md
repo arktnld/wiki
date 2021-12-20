@@ -1,3 +1,5 @@
+Examples
+    [codewars](codewars/index)
 
 Bash
 	[Redirection](Redirection)
