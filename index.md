@@ -8,7 +8,7 @@ Study
     [English](English/index)
     [Markdown](Markdown/index)
     [Japonese Index](Japonese/Index)
-    Mathematics
+    [Mathematics](Mathematics)
 
 
 Programming
@@ -34,7 +34,6 @@ Bookmark
 
 Cognition
     [My Thoughts](Cognition/MyThoughts)
-    [Golden Rules](Cognition/GoldenRules)
     [Cognitive Distortion](Cognition/Index)
     [Transtornos](Transtornos/Index)
 
@@ -49,3 +48,6 @@ GameWiki
 
 Recipes
     [lanches](Recipes/index)
+
+Lists
+    [lists/MyGamesLists](lists/MyGamesLists)

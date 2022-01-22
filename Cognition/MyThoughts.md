@@ -1,3 +1,3 @@
 My Thoughts
 
-    [Sair Com vontade, nunca criar vontade pra sair.](Sair Com vontade, nunca criar vontade pra sair.)
+    [Cura para a dissimulação](Cura para a dissimulação)
