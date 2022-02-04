@@ -50,4 +50,5 @@ Recipes
     [lanches](Recipes/index)
 
 Lists
-    [lists/MyGamesLists](lists/MyGamesLists)
+    [MyGamesLists](lists/MyGamesLists)
+    [Books](lists/Books)
