@@ -7,5 +7,4 @@ Magazines
     https://worldmags.net/
 
 Comics
-    https://ds-club.net
     https://getcomics.info

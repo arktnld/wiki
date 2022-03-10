@@ -1,15 +1,17 @@
+
+[Blog](Blog/index)
+[Music](Music/index)
 Health
     [Eating](Health/eating)
     [Diary](diary/index)
 
 Study
+    [CodeProjects](CodeProjects)
     [Inspiration](Inspiration/index)
     [Pomodoro](Pomodoro/index)
     [English](English/index)
-    [Markdown](Markdown/index)
     [Japonese Index](Japonese/Index)
     [Mathematics](Mathematics)
-
 
 Programming
 	[Fundamentals](Fundamentals/Index)
@@ -19,6 +21,7 @@ Programming
     [java](java/index)
     [vimscript](vimscript/index)
     [Lua](Lua/index)
+    [Markdown](Markdown/index)
 
 Linux
     [Shell](Shell/index)
@@ -52,3 +55,5 @@ Recipes
 Lists
     [MyGamesLists](lists/MyGamesLists)
     [Books](lists/Books)
+    [CodingStudyLynda](lists/CodingStudyLynda)
+
